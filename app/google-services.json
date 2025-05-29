@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "428516647840",
+    "firebase_url": "https://test-6007d-default-rtdb.firebaseio.com",
+    "project_id": "test-6007d",
+    "storage_bucket": "test-6007d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428516647840:android:cb781a52b473ee339b7ac5",
+        "android_client_info": {
+          "package_name": "jp.ac.nkc_cta09.gittest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHTtAelMHQ98y-OJclKo1CA7ynvbD144"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
